@@ -1,5 +1,5 @@
 import react from "react"
-
+// import index from "../index.css";
 export default function Main(){
 
     return(

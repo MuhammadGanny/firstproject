@@ -11,6 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
+
 * {
   box-sizing: border-box;
 }
@@ -53,7 +54,11 @@ nav > img {
 
 main{
   padding: 57px 27px;
-  color: white;  
+  color: white;
+  background-image: url(./images/React-icon.svg.png);  
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-size: 50%;
 }
 .main--title {
   margin: 0;
